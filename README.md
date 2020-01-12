@@ -1,5 +1,5 @@
 # LibraryManager
-PHP+MySQL
+PHP+MySQL\n
 index.php为用户的入口页面
 mybook.sql为图书管理系统的数据库
 图书馆管理系统
